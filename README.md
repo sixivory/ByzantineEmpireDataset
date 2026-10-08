@@ -3,4 +3,4 @@ A dataset containing tweets scraped using the keyword "byzantine empire" from Ja
 
 The dataset was then cleaned and filtered to remove non-history-related entries and further randomised.
 
-Disclaimer: I do not own any of the tweets in this dataset.
+Disclaimer: I do not own any of the tweets in this dataset. The dataset may only be used for personal or educational purposes.
